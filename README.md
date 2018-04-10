@@ -4,7 +4,7 @@
 
 ### 下载项目
 ``` bash
-git clone https://github.com/t880216t/manager-web.git
+git clone https://github.com/dxhboy/manager-web.git
 ```
 
 ### 安装依赖
