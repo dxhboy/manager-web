@@ -10,6 +10,7 @@ git clone https://github.com/dxhboy/manager-web.git
 ### 安装依赖
 ``` bash
 cnpm install -g webpack webpack-dev-server
+参考https://jingyan.baidu.com/article/48b37f8dd141b41a646488bc.html
 
 cnpm install
 
